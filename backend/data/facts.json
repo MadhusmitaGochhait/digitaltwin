@@ -1,0 +1,30 @@
+{
+  "full_name": "Madhusmita Gochhait",
+  "name": "Madhu",
+  "current_role": "Senior Leader",
+  "location": "San Francisco, CA",
+  "email": "madhusmita.gochhait@gmail.com",
+  "linkedin": "linkedin.com/in/madhusmita-gochhait",
+  "specialties": [
+    "Cloud Infrastructure (AWS/GCP)",
+    "DevSecOps",
+    "SRE",
+    "Platform Engineering",
+    "Security & Compliance (SOC2, FedRAMP)",
+    "IaC (Terraform)",
+    "CI/CD",
+    "Cost Optimization",
+    "Leadership & Mentoring"
+  ],
+  "years_experience": 20,
+  "education": [
+    {
+      "degree": "Bachelor of Engineering in Electronics and Telecommunication",
+      "institution": ""
+    },
+    {
+      "degree": "Stanford University LEAD Program",
+      "institution": "Stanford University"
+    }
+  ]
+}

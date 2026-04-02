@@ -1,0 +1,101 @@
+Name- Madhusmita Gochhait
+Email – madhusmita.gochhait@gmail.com
+Phone - +14089815987	                                     
+   
+
+
+
+Executive Profile
+
+Experienced hands-on engineering leader with 20 years of proven expertise in Infrastructure, DevOps, SRE, and Cybersecurity Operations. Demonstrated success in designing and implementing large-scale, highly available, and secured platform solutions, managing vulnerability remediation programs and achieving various security certifications including SOC 2 Type 2 and FedRAMP.
+
+
+
+Professional Experience
+
+ADT Inc (June 2023 - Present)
+Senior Manager,  Platform Engineering
+
+	Architected scalable, highly available AWS systems leveraging EC2, S3, RDS, Lambda, ECS, and EKS 
+	Created roadmaps and planning for end-to-end build, scale, and management of the infrastructure required to operate ADT Multifamily applications and devices.
+	Integrated DevSecOps practices into CI/CD pipelines to enforce cybersecurity and compliance during build and deploy phases .
+	Oversaw detection and remediation of security vulnerabilities, coordinating with teams to ensure timely patching and mitigation .
+	 Proficient in engineering and enterprise toolchains including Jira, SFDC, Confluence, and Git-based workflows.
+	Directed SOC 2 Type 2 compliance efforts, ensuring security controls across infrastructure and application layers.
+	Integrated enterprise cybersecurity tools including Palo Alto Prisma Cloud and XDR agents for threat detection and prevention.
+	Implemented security guardrails for internal applications, including DDoS protection using AWS Shield and WAF.
+	Led incident response processes, defined RTO/RPO, and coordinated cross-functional for resolution of P0/P1 production issues.
+	Automated disaster recovery processes for critical applications, reducing recovery time and enhancing business continuity.
+	 Implemented end-to-end observability with AWS CloudWatch, Dynatrace, and custom metrics dashboards to reduce MTTD/MTTR.
+	Developed internal SMEs through technical mentoring, enabling deep root cause analysis and faster issue resolution.
+
+
+Skyhigh Security / McAfee LLC (June 2018- June 2023)
+Senior Manager 
+	Infrastructure and on-call support, product deployment , security and incident response and resolution for multiple applications.
+	Led achievement of security compliance certifications including SOC 2 Type 2 and FedRAMP
+	Monitored security posture and infrastructure health 24x7x365 with global support team .
+	Provided technical leadership on various areas of large-scale cloud infrastructure with a focus on resilience and high availability of business-critical applications. 
+	Significant contribution in cloud cost optimization  by continuous infra monitoring and setup alerts to minimize underutilized resources resulting in reducing costs by 25% and improving system performance by 30%.
+	Directed , architected and implemented a centralized monitoring and alerting framework using Prometheus and Grafana and Victoria metrics.
+	Defined Incident response and management process and drove adoption across the organization. 
+	Led achievement of security compliance certifications including SOC 2 Type 2 and FedRAMP.
+	Oversaw the detection and remediation process of security vulnerabilities across our infrastructure.
+	Hands-on expertise with cybersecurity tools including Qualys and Nessus for vulnerability scanning and assessment
+	Collaborated with Customer Support, Operations and customers to resolve issues and escalations and helped drive down MTTR.
+	Defined incident response and management processes and drove adoption across the organization
+Juniper Networks (September 2015 — October 2016 )
+Lead DevOps Engineer 
+
+	Led a team focused on managing and support of CentOS based Linux development servers. 
+	Worked as a Monitoring platform Lead for the cloud CPE solution. 
+	Managed Server configuration through SaltStack automation Framework. 
+	Deploying software services such as Apache, MySQL database clusters in a high availability (in HAProxy). 
+	Involved in Scripting (Shell/bash, Python) and building required automation tools on an adhoc basis. 
+	Setup of Icinga cluster for services and infrastructure monitoring. 
+	Developed, setup and administration of Icinga, Ganglia, webalizer, Newrelic tools for end-to-end servers and application monitoring. 
+	Developed and automated Icinga Autodiscover framework for new nodes addition in the cluster /network. 
+	Troubleshooting environment issues for the entire platform. 
+	On Call Production support and monitoring. 
+
+Prior Roles & Responsibilities
+
+	Senior DevOps Consultant at ETrade Inc
+June 2014 — August 2015 
+
+	Senior DevOps Consultant at Apple Inc.
+January 2012 — June 2014
+
+	Technical Analyst at Infosys Technologies Limited
+February 2006 — January 2012
+
+
+Technology Exposure:
+
+Cloud Computing	 AWS, GCP
+DevOps/DevSecOps tools	 CI/CD with Bitbucket /Jenkins, GitLab, Docker, Kubernetes, SonarQube, Qualys,Nessus, HAProxy, Niginx, Apache httpd , Identity and Access Management( IAM) using Okta, Duo , YubiKey,Google Auth, OpenSSL
+Databases	 Postgres,MySql ,Oracle , Cassandra , Redis, elasticsearch, DynamoDB, InfluxDB
+IAC( Infrastructure As Code)	 AWS Cloudformation, Terraform
+Logging,Monitoring & Alerting	Dynatrace, AWS CloudWatch, Splunk,Ichinga,New Relic,Nagios,Prometheus,Grafana,ELK Stack, Victoria Metrics
+Change Management tools	  GIT,SVN 
+Operating System	 Linux ( CentOS , Red Hat, Ubuntu, Amazon Linux ), macOS, Windows
+Scripting Languages	 Bash/shell scripting , Python ,Ruby 
+
+
+
+Education & Certifications
+	Bachelor of Engineering in Electronics and Telecommunication
+Orissa Engineering College 2001-2005
+
+	Executive leadership program (LEAD) by Stanford Graduate School of Business
+
+
+
+Certifications
+
+	AWS Solutions Architect Associate
+	AWS AI Associate
+	Red Hat certified Engineer
+	Red Hat certified System Engineer
+
+
